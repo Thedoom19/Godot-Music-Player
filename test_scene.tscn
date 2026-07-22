@@ -1,3 +1,3 @@
 [gd_scene format=3 uid="uid://dr2hqnwusbwqs"]
 
-[node name="TestScene" type="Node2D" unique_id=1958167522]
+[node name="TestScene" type="Node2D"]
